@@ -12,4 +12,12 @@
 
 # Current Steps
 
-- find ./edgartools-data -type f -exec cat {} + | wc -c
+### Tokens
+
+find ./edgartools-data -type f -exec cat {} + | wc -c
+
+### Files
+
+find ./edgartools-data -type f | wc -l
+
+244 charecters
