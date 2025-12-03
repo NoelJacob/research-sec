@@ -4,6 +4,7 @@
 [] do the omit based on [Gemini](https://gemini.google.com/share/7a40b7802ea7)
 [x] convert it to markdown
 [x] delete files older than 2009
+[] do this [Gemini](https://gemini.google.com/app/94ce1281bc2e5448)
 
 # Leads
 

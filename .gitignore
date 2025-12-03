@@ -220,3 +220,4 @@ Previous/sec-edgar-downloader-data/
 edgartools-data.bak/
 edgartools-data/
 edgartools-data-new/
+*.jsonl
