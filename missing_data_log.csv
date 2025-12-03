@@ -1,0 +1,1278 @@
+ticker,quarter,field,raw_value
+ABTS,2025q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2024q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2024q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2024q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2023q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2023q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2023q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2023q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2022q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2022q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2022q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2021q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2021q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2021q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2019q4,totalAssets,'None'
+ABTS,2019q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2019q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+ABTS,2019q4,totalShareholderEquity,'None'
+ABTS,2014q1,price_report,MISSING
+ABTS,2013q4,totalAssets,'None'
+ABTS,2013q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ABTS,2013q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+ABTS,2013q4,price_report,MISSING
+ARLP,2008q4,btc_price,MISSING from btc_dict
+ARLP,2008q4,hashrate,MISSING from hash_dict
+ARLP,2008q3,btc_price,MISSING from btc_dict
+ARLP,2008q3,hashrate,MISSING from hash_dict
+ARLP,2008q2,btc_price,MISSING from btc_dict
+ARLP,2008q2,hashrate,MISSING from hash_dict
+ARLP,2008q1,btc_price,MISSING from btc_dict
+ARLP,2008q1,hashrate,MISSING from hash_dict
+ARLP,2007q4,btc_price,MISSING from btc_dict
+ARLP,2007q4,hashrate,MISSING from hash_dict
+ARLP,2007q3,btc_price,MISSING from btc_dict
+ARLP,2007q3,hashrate,MISSING from hash_dict
+ARLP,2007q2,btc_price,MISSING from btc_dict
+ARLP,2007q2,hashrate,MISSING from hash_dict
+ARLP,2007q1,btc_price,MISSING from btc_dict
+ARLP,2007q1,hashrate,MISSING from hash_dict
+ARLP,2006q4,btc_price,MISSING from btc_dict
+ARLP,2006q4,hashrate,MISSING from hash_dict
+ARLP,2006q3,btc_price,MISSING from btc_dict
+ARLP,2006q3,hashrate,MISSING from hash_dict
+ARLP,2006q2,btc_price,MISSING from btc_dict
+ARLP,2006q2,hashrate,MISSING from hash_dict
+ARLP,2006q1,btc_price,MISSING from btc_dict
+ARLP,2006q1,hashrate,MISSING from hash_dict
+ARLP,2005q4,btc_price,MISSING from btc_dict
+ARLP,2005q4,hashrate,MISSING from hash_dict
+ARLP,2005q3,btc_price,MISSING from btc_dict
+ARLP,2005q3,hashrate,MISSING from hash_dict
+APLD,2021q1,totalAssets,'None'
+APLD,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2021q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+APLD,2021q1,totalShareholderEquity,'None'
+APLD,2020q4,totalAssets,'None'
+APLD,2020q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2020q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+APLD,2020q4,totalShareholderEquity,'None'
+APLD,2020q3,totalAssets,'None'
+APLD,2020q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2020q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+APLD,2008q4,btc_price,MISSING from btc_dict
+APLD,2008q4,hashrate,MISSING from hash_dict
+APLD,2008q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2008q3,price_report,MISSING
+APLD,2008q3,btc_price,MISSING from btc_dict
+APLD,2008q3,hashrate,MISSING from hash_dict
+APLD,2008q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2008q2,price_report,MISSING
+APLD,2008q2,btc_price,MISSING from btc_dict
+APLD,2008q2,hashrate,MISSING from hash_dict
+APLD,2008q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2008q1,price_report,MISSING
+APLD,2008q1,btc_price,MISSING from btc_dict
+APLD,2008q1,hashrate,MISSING from hash_dict
+APLD,2007q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2007q4,price_report,MISSING
+APLD,2007q4,btc_price,MISSING from btc_dict
+APLD,2007q4,hashrate,MISSING from hash_dict
+APLD,2007q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2007q3,price_report,MISSING
+APLD,2007q3,btc_price,MISSING from btc_dict
+APLD,2007q3,hashrate,MISSING from hash_dict
+APLD,2007q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2007q2,price_report,MISSING
+APLD,2007q2,btc_price,MISSING from btc_dict
+APLD,2007q2,hashrate,MISSING from hash_dict
+APLD,2007q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2007q1,price_report,MISSING
+APLD,2007q1,btc_price,MISSING from btc_dict
+APLD,2007q1,hashrate,MISSING from hash_dict
+APLD,2006q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2006q4,price_report,MISSING
+APLD,2006q4,btc_price,MISSING from btc_dict
+APLD,2006q4,hashrate,MISSING from hash_dict
+APLD,2006q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2006q3,price_report,MISSING
+APLD,2006q3,btc_price,MISSING from btc_dict
+APLD,2006q3,hashrate,MISSING from hash_dict
+APLD,2006q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2006q2,price_report,MISSING
+APLD,2006q2,btc_price,MISSING from btc_dict
+APLD,2006q2,hashrate,MISSING from hash_dict
+APLD,2006q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2006q1,price_report,MISSING
+APLD,2006q1,btc_price,MISSING from btc_dict
+APLD,2006q1,hashrate,MISSING from hash_dict
+APLD,2005q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2005q4,price_report,MISSING
+APLD,2005q4,btc_price,MISSING from btc_dict
+APLD,2005q4,hashrate,MISSING from hash_dict
+APLD,2005q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2005q3,price_report,MISSING
+APLD,2005q3,btc_price,MISSING from btc_dict
+APLD,2005q3,hashrate,MISSING from hash_dict
+APLD,2005q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2005q2,price_report,MISSING
+APLD,2005q2,btc_price,MISSING from btc_dict
+APLD,2005q2,hashrate,MISSING from hash_dict
+APLD,2005q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2005q1,price_report,MISSING
+APLD,2005q1,btc_price,MISSING from btc_dict
+APLD,2005q1,hashrate,MISSING from hash_dict
+APLD,2004q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2004q4,price_report,MISSING
+APLD,2004q4,btc_price,MISSING from btc_dict
+APLD,2004q4,hashrate,MISSING from hash_dict
+APLD,2004q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2004q3,price_report,MISSING
+APLD,2004q3,btc_price,MISSING from btc_dict
+APLD,2004q3,hashrate,MISSING from hash_dict
+APLD,2004q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2004q2,price_report,MISSING
+APLD,2004q2,btc_price,MISSING from btc_dict
+APLD,2004q2,hashrate,MISSING from hash_dict
+APLD,2004q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2004q1,price_report,MISSING
+APLD,2004q1,btc_price,MISSING from btc_dict
+APLD,2004q1,hashrate,MISSING from hash_dict
+APLD,2003q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2003q4,price_report,MISSING
+APLD,2003q4,btc_price,MISSING from btc_dict
+APLD,2003q4,hashrate,MISSING from hash_dict
+APLD,2003q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2003q3,price_report,MISSING
+APLD,2003q3,btc_price,MISSING from btc_dict
+APLD,2003q3,hashrate,MISSING from hash_dict
+APLD,2003q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2003q2,price_report,MISSING
+APLD,2003q2,btc_price,MISSING from btc_dict
+APLD,2003q2,hashrate,MISSING from hash_dict
+APLD,2003q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2003q1,price_report,MISSING
+APLD,2003q1,btc_price,MISSING from btc_dict
+APLD,2003q1,hashrate,MISSING from hash_dict
+APLD,2002q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2002q4,price_report,MISSING
+APLD,2002q4,btc_price,MISSING from btc_dict
+APLD,2002q4,hashrate,MISSING from hash_dict
+APLD,2002q3,totalAssets,'None'
+APLD,2002q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2002q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+APLD,2002q3,totalShareholderEquity,'None'
+APLD,2002q3,price_report,MISSING
+APLD,2002q3,btc_price,MISSING from btc_dict
+APLD,2002q3,hashrate,MISSING from hash_dict
+APLD,2002q2,price_report,MISSING
+APLD,2002q2,btc_price,MISSING from btc_dict
+APLD,2002q2,hashrate,MISSING from hash_dict
+APLD,2002q1,price_report,MISSING
+APLD,2002q1,btc_price,MISSING from btc_dict
+APLD,2002q1,hashrate,MISSING from hash_dict
+APLD,2001q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+APLD,2001q3,price_report,MISSING
+APLD,2001q3,btc_price,MISSING from btc_dict
+APLD,2001q3,hashrate,MISSING from hash_dict
+ARBK,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ARBK,2021q3,price_report,MISSING
+ARBK,2021q2,price_report,MISSING
+ARBK,2021q1,price_report,MISSING
+ARBK,2020q4,price_report,MISSING
+ARBK,2020q3,price_report,MISSING
+ARBK,2020q2,price_report,MISSING
+ARBK,2020q1,price_report,MISSING
+ARBK,2019q4,price_report,MISSING
+ARBK,2019q3,price_report,MISSING
+ARBK,2019q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ARBK,2019q2,price_report,MISSING
+ARBK,2019q1,price_report,MISSING
+ARBK,2018q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ARBK,2018q4,price_report,MISSING
+ARBK,2018q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ARBK,2018q2,price_report,MISSING
+BTOG,2019q2,price_report,MISSING
+BTOG,2019q1,price_report,MISSING
+BTOG,2018q4,price_report,MISSING
+BTOG,2018q3,price_report,MISSING
+BTOG,2018q2,price_report,MISSING
+BTOG,2018q1,price_report,MISSING
+BTOG,2017q4,price_report,MISSING
+BTOG,2017q3,price_report,MISSING
+BTOG,2017q2,price_report,MISSING
+BTOG,2017q1,price_report,MISSING
+BTOG,2016q4,totalAssets,'None'
+BTOG,2016q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BTOG,2016q4,price_report,MISSING
+BTOG,2016q3,totalAssets,'None'
+BTOG,2016q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BTOG,2016q3,price_report,MISSING
+BTDR,2023q1,price_report,MISSING
+BTDR,2022q4,price_report,MISSING
+BTDR,2022q3,totalAssets,'None'
+BTDR,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BTDR,2022q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BTDR,2022q3,totalShareholderEquity,'None'
+BTDR,2022q3,price_report,MISSING
+BTDR,2022q2,price_report,MISSING
+BTDR,2022q1,price_report,MISSING
+BTDR,2021q4,price_report,MISSING
+BTDR,2021q3,price_report,MISSING
+BTDR,2021q2,price_report,MISSING
+BTDR,2021q1,price_report,MISSING
+BTDR,2020q4,price_report,MISSING
+BTDR,2020q3,price_report,MISSING
+BTDR,2020q2,totalAssets,'None'
+BTDR,2020q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BTDR,2020q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BTDR,2020q2,totalShareholderEquity,'None'
+BTDR,2020q2,price_report,MISSING
+BTDR,2020q1,totalAssets,'None'
+BTDR,2020q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BTDR,2020q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BTDR,2020q1,totalShareholderEquity,'None'
+BTDR,2020q1,price_report,MISSING
+BITF,2018q2,price_report,MISSING
+BITF,2018q1,price_report,MISSING
+FUFU,2023q4,price_report,MISSING
+FUFU,2023q3,price_report,MISSING
+FUFU,2023q2,price_report,MISSING
+FUFU,2023q1,price_report,MISSING
+FUFU,2022q4,price_report,MISSING
+FUFU,2022q3,price_report,MISSING
+FUFU,2022q2,price_report,MISSING
+FUFU,2022q1,price_report,MISSING
+FUFU,2021q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+FUFU,2021q4,price_report,MISSING
+FUFU,2021q3,price_report,MISSING
+FUFU,2021q2,totalAssets,'None'
+FUFU,2021q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+FUFU,2021q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+FUFU,2021q2,totalShareholderEquity,'None'
+FUFU,2021q2,price_report,MISSING
+FUFU,2021q1,totalAssets,'None'
+FUFU,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+FUFU,2021q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+FUFU,2021q1,totalShareholderEquity,'None'
+FUFU,2021q1,price_report,MISSING
+BMNR,2025q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2025q2,price_report,MISSING
+BMNR,2025q1,price_report,MISSING
+BMNR,2024q4,price_report,MISSING
+BMNR,2024q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2024q3,price_report,MISSING
+BMNR,2024q2,price_report,MISSING
+BMNR,2024q1,price_report,MISSING
+BMNR,2023q4,price_report,MISSING
+BMNR,2023q2,price_report,MISSING
+BMNR,2023q1,price_report,MISSING
+BMNR,2022q4,price_report,MISSING
+BMNR,2022q2,price_report,MISSING
+BMNR,2022q1,price_report,MISSING
+BMNR,2021q4,price_report,MISSING
+BMNR,2021q2,price_report,MISSING
+BMNR,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2021q1,price_report,MISSING
+BMNR,2020q4,totalAssets,'None'
+BMNR,2020q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2020q4,price_report,MISSING
+BMNR,2014q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BMNR,2014q3,price_report,MISSING
+BMNR,2014q2,price_report,MISSING
+BMNR,2014q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BMNR,2014q1,price_report,MISSING
+BMNR,2013q4,price_report,MISSING
+BMNR,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2013q3,price_report,MISSING
+BMNR,2013q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BMNR,2013q2,price_report,MISSING
+BMNR,2013q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BMNR,2013q1,price_report,MISSING
+BMNR,2012q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BMNR,2012q4,price_report,MISSING
+BMNR,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2012q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+BMNR,2012q3,price_report,MISSING
+BMNR,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2012q2,price_report,MISSING
+BMNR,2011q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2011q2,price_report,MISSING
+BMNR,2011q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+BMNR,2011q1,price_report,MISSING
+CAN,2019q3,price_report,MISSING
+CAN,2019q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CAN,2019q2,price_report,MISSING
+CAN,2019q1,totalAssets,'None'
+CAN,2019q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CAN,2019q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CAN,2019q1,price_report,MISSING
+CAN,2018q4,price_report,MISSING
+CAN,2018q3,balance_report,MISSING
+CANG,2018q2,price_report,MISSING
+CANG,2018q1,price_report,MISSING
+CANG,2017q4,price_report,MISSING
+CANG,2017q3,price_report,MISSING
+CANG,2017q2,totalAssets,'None'
+CANG,2017q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CANG,2017q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CANG,2017q2,totalShareholderEquity,'None'
+CANG,2017q2,price_report,MISSING
+CANG,2017q1,totalAssets,'None'
+CANG,2017q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CANG,2017q1,price_report,MISSING
+CANG,2016q4,price_report,MISSING
+CIFR,2021q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CIFR,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CIFR,2020q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CIFR,2020q4,price_report,MISSING
+CIFR,2020q3,price_report,MISSING
+CIFR,2020q2,price_report,MISSING
+CLSK,2016q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2016q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2015q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2015q4,price_report,MISSING
+CLSK,2015q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2015q3,price_report,MISSING
+CLSK,2015q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2015q2,price_report,MISSING
+CLSK,2015q1,price_report,MISSING
+CLSK,2014q4,price_report,MISSING
+CLSK,2014q3,price_report,MISSING
+CLSK,2014q2,price_report,MISSING
+CLSK,2014q1,price_report,MISSING
+CLSK,2013q4,price_report,MISSING
+CLSK,2013q3,price_report,MISSING
+CLSK,2013q2,price_report,MISSING
+CLSK,2013q1,price_report,MISSING
+CLSK,2012q4,price_report,MISSING
+CLSK,2012q3,price_report,MISSING
+CLSK,2012q2,price_report,MISSING
+CLSK,2012q1,price_report,MISSING
+CLSK,2011q4,price_report,MISSING
+CLSK,2011q3,price_report,MISSING
+CLSK,2011q2,price_report,MISSING
+CLSK,2011q1,price_report,MISSING
+CLSK,2010q4,price_report,MISSING
+CLSK,2010q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2010q3,price_report,MISSING
+CLSK,2010q2,totalAssets,'None'
+CLSK,2010q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2010q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2010q2,price_report,MISSING
+CLSK,2010q1,totalAssets,'None'
+CLSK,2010q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2010q1,price_report,MISSING
+CLSK,2009q4,totalAssets,'None'
+CLSK,2009q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2009q4,price_report,MISSING
+CLSK,2009q3,totalAssets,'None'
+CLSK,2009q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2009q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2009q3,price_report,MISSING
+CLSK,2009q2,totalAssets,'None'
+CLSK,2009q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2009q2,price_report,MISSING
+CLSK,2009q1,totalAssets,'None'
+CLSK,2009q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CLSK,2009q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2009q1,totalShareholderEquity,'None'
+CLSK,2009q1,price_report,MISSING
+CLSK,2008q4,totalAssets,'None'
+CLSK,2008q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+CLSK,2008q4,price_report,MISSING
+CLSK,2008q4,btc_price,MISSING from btc_dict
+CLSK,2008q4,hashrate,MISSING from hash_dict
+CORZ,2023q4,price_report,MISSING
+CORZ,2023q3,price_report,MISSING
+CORZ,2023q2,price_report,MISSING
+CORZ,2023q1,price_report,MISSING
+CORZ,2022q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+CORZ,2022q4,price_report,MISSING
+CORZ,2022q3,price_report,MISSING
+CORZ,2022q2,price_report,MISSING
+CORZ,2022q1,price_report,MISSING
+CORZ,2021q4,price_report,MISSING
+CORZ,2021q3,price_report,MISSING
+DGXX,2025q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+DGXX,2024q4,price_report,MISSING
+DGXX,2024q3,price_report,MISSING
+DGXX,2024q2,price_report,MISSING
+DGXX,2024q1,price_report,MISSING
+DGXX,2023q4,price_report,MISSING
+DGXX,2023q3,price_report,MISSING
+DGXX,2023q2,price_report,MISSING
+DGXX,2023q1,price_report,MISSING
+DGXX,2022q4,price_report,MISSING
+DGXX,2022q3,price_report,MISSING
+DGXX,2022q2,price_report,MISSING
+DGXX,2022q1,price_report,MISSING
+DGXX,2021q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+DGXX,2019q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+DGXX,2019q3,totalAssets,'None'
+DGXX,2019q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+DGXX,2019q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+DGXX,2019q3,totalShareholderEquity,'None'
+DGXX,2019q1,totalAssets,'None'
+DGXX,2019q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+DGXX,2019q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+GREE,2021q3,price_report,MISSING
+GREE,2021q2,price_report,MISSING
+GREE,2021q1,price_report,MISSING
+GREE,2020q4,price_report,MISSING
+GREE,2020q3,totalAssets,'None'
+GREE,2020q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GREE,2020q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+GREE,2020q3,totalShareholderEquity,'None'
+GREE,2020q3,price_report,MISSING
+GREE,2020q2,totalAssets,'None'
+GREE,2020q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GREE,2020q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+GREE,2020q2,totalShareholderEquity,'None'
+GREE,2020q2,price_report,MISSING
+GREE,2020q1,price_report,MISSING
+HUT,2018q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2018q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2018q1,price_report,MISSING
+HUT,2017q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2017q4,price_report,MISSING
+HUT,2017q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2017q3,price_report,MISSING
+HUT,2017q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2017q2,price_report,MISSING
+HUT,2017q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2017q1,price_report,MISSING
+HUT,2016q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2016q4,price_report,MISSING
+HUT,2016q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2016q3,price_report,MISSING
+HUT,2016q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2016q2,price_report,MISSING
+HUT,2016q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2016q1,price_report,MISSING
+HUT,2015q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2015q4,price_report,MISSING
+HUT,2015q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2015q3,price_report,MISSING
+HUT,2015q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2015q2,price_report,MISSING
+HUT,2015q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2015q1,price_report,MISSING
+HUT,2014q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2014q4,price_report,MISSING
+HUT,2014q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2014q3,price_report,MISSING
+HUT,2014q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2014q2,price_report,MISSING
+HUT,2014q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2014q1,price_report,MISSING
+HUT,2013q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2013q4,price_report,MISSING
+HUT,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2013q3,price_report,MISSING
+HUT,2013q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2013q2,price_report,MISSING
+HUT,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2013q1,price_report,MISSING
+HUT,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+HUT,2012q4,price_report,MISSING
+GPUS,2024q3,price_report,MISSING
+GPUS,2024q2,price_report,MISSING
+GPUS,2024q1,price_report,MISSING
+GPUS,2023q4,price_report,MISSING
+GPUS,2023q3,price_report,MISSING
+GPUS,2023q2,price_report,MISSING
+GPUS,2023q1,price_report,MISSING
+GPUS,2022q4,price_report,MISSING
+GPUS,2022q3,price_report,MISSING
+GPUS,2022q2,price_report,MISSING
+GPUS,2022q1,price_report,MISSING
+GPUS,2021q4,price_report,MISSING
+GPUS,2021q3,price_report,MISSING
+GPUS,2021q2,price_report,MISSING
+GPUS,2021q1,price_report,MISSING
+GPUS,2020q4,price_report,MISSING
+GPUS,2020q3,price_report,MISSING
+GPUS,2020q2,price_report,MISSING
+GPUS,2020q1,price_report,MISSING
+GPUS,2019q4,price_report,MISSING
+GPUS,2019q3,price_report,MISSING
+GPUS,2019q2,price_report,MISSING
+GPUS,2019q1,price_report,MISSING
+GPUS,2018q4,price_report,MISSING
+GPUS,2018q3,price_report,MISSING
+GPUS,2018q2,price_report,MISSING
+GPUS,2018q1,price_report,MISSING
+GPUS,2017q4,price_report,MISSING
+GPUS,2017q3,price_report,MISSING
+GPUS,2017q2,price_report,MISSING
+GPUS,2017q1,price_report,MISSING
+GPUS,2016q4,price_report,MISSING
+GPUS,2016q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2016q3,price_report,MISSING
+GPUS,2016q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2016q2,price_report,MISSING
+GPUS,2016q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2016q1,price_report,MISSING
+GPUS,2015q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2015q4,price_report,MISSING
+GPUS,2015q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2015q3,price_report,MISSING
+GPUS,2015q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2015q2,price_report,MISSING
+GPUS,2015q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2015q1,price_report,MISSING
+GPUS,2014q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2014q4,price_report,MISSING
+GPUS,2014q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2014q3,price_report,MISSING
+GPUS,2014q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2014q2,price_report,MISSING
+GPUS,2014q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2014q1,price_report,MISSING
+GPUS,2013q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2013q4,price_report,MISSING
+GPUS,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2013q3,price_report,MISSING
+GPUS,2013q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2013q2,price_report,MISSING
+GPUS,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2013q1,price_report,MISSING
+GPUS,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2012q4,price_report,MISSING
+GPUS,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2012q3,price_report,MISSING
+GPUS,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2012q2,price_report,MISSING
+GPUS,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2012q1,price_report,MISSING
+GPUS,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2011q4,price_report,MISSING
+GPUS,2011q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2011q3,price_report,MISSING
+GPUS,2011q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2011q2,price_report,MISSING
+GPUS,2011q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2011q1,price_report,MISSING
+GPUS,2010q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2010q4,price_report,MISSING
+GPUS,2010q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2010q3,price_report,MISSING
+GPUS,2010q2,price_report,MISSING
+GPUS,2010q1,price_report,MISSING
+GPUS,2009q4,price_report,MISSING
+GPUS,2009q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2009q3,price_report,MISSING
+GPUS,2009q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2009q2,price_report,MISSING
+GPUS,2009q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2009q1,price_report,MISSING
+GPUS,2008q4,price_report,MISSING
+GPUS,2008q4,btc_price,MISSING from btc_dict
+GPUS,2008q4,hashrate,MISSING from hash_dict
+GPUS,2008q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2008q3,price_report,MISSING
+GPUS,2008q3,btc_price,MISSING from btc_dict
+GPUS,2008q3,hashrate,MISSING from hash_dict
+GPUS,2008q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2008q2,price_report,MISSING
+GPUS,2008q2,btc_price,MISSING from btc_dict
+GPUS,2008q2,hashrate,MISSING from hash_dict
+GPUS,2008q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2008q1,price_report,MISSING
+GPUS,2008q1,btc_price,MISSING from btc_dict
+GPUS,2008q1,hashrate,MISSING from hash_dict
+GPUS,2007q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2007q4,price_report,MISSING
+GPUS,2007q4,btc_price,MISSING from btc_dict
+GPUS,2007q4,hashrate,MISSING from hash_dict
+GPUS,2007q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2007q3,price_report,MISSING
+GPUS,2007q3,btc_price,MISSING from btc_dict
+GPUS,2007q3,hashrate,MISSING from hash_dict
+GPUS,2007q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2007q2,price_report,MISSING
+GPUS,2007q2,btc_price,MISSING from btc_dict
+GPUS,2007q2,hashrate,MISSING from hash_dict
+GPUS,2007q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2007q1,price_report,MISSING
+GPUS,2007q1,btc_price,MISSING from btc_dict
+GPUS,2007q1,hashrate,MISSING from hash_dict
+GPUS,2006q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2006q4,price_report,MISSING
+GPUS,2006q4,btc_price,MISSING from btc_dict
+GPUS,2006q4,hashrate,MISSING from hash_dict
+GPUS,2006q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2006q3,price_report,MISSING
+GPUS,2006q3,btc_price,MISSING from btc_dict
+GPUS,2006q3,hashrate,MISSING from hash_dict
+GPUS,2006q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+GPUS,2006q2,price_report,MISSING
+GPUS,2006q2,btc_price,MISSING from btc_dict
+GPUS,2006q2,hashrate,MISSING from hash_dict
+GPUS,2006q1,price_report,MISSING
+GPUS,2006q1,btc_price,MISSING from btc_dict
+GPUS,2006q1,hashrate,MISSING from hash_dict
+GPUS,2005q4,price_report,MISSING
+GPUS,2005q4,btc_price,MISSING from btc_dict
+GPUS,2005q4,hashrate,MISSING from hash_dict
+GPUS,2005q3,price_report,MISSING
+GPUS,2005q3,btc_price,MISSING from btc_dict
+GPUS,2005q3,hashrate,MISSING from hash_dict
+IREN,2025q3,price_report,MISSING
+IREN,2025q2,price_report,MISSING
+IREN,2025q1,price_report,MISSING
+IREN,2024q4,price_report,MISSING
+IREN,2024q3,price_report,MISSING
+IREN,2024q2,price_report,MISSING
+IREN,2024q1,price_report,MISSING
+IREN,2023q4,price_report,MISSING
+IREN,2023q3,price_report,MISSING
+IREN,2023q2,price_report,MISSING
+IREN,2023q1,price_report,MISSING
+IREN,2022q4,price_report,MISSING
+IREN,2022q3,totalAssets,'None'
+IREN,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+IREN,2022q3,price_report,MISSING
+IREN,2022q2,price_report,MISSING
+IREN,2022q1,price_report,MISSING
+IREN,2021q4,price_report,MISSING
+IREN,2021q3,price_report,MISSING
+IREN,2021q2,price_report,MISSING
+IREN,2021q1,totalAssets,'None'
+IREN,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+IREN,2021q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+IREN,2021q1,totalShareholderEquity,'None'
+IREN,2021q1,price_report,MISSING
+IREN,2020q4,price_report,MISSING
+IREN,2020q3,totalAssets,'None'
+IREN,2020q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+IREN,2020q3,price_report,MISSING
+IREN,2020q2,price_report,MISSING
+IREN,2020q1,price_report,MISSING
+IREN,2019q4,totalAssets,'None'
+IREN,2019q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+IREN,2019q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+IREN,2019q4,totalShareholderEquity,'None'
+IREN,2019q4,price_report,MISSING
+IREN,2019q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+IREN,2019q3,price_report,MISSING
+LMFA,2023q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+LMFA,2015q4,price_report,MISSING
+LMFA,2015q3,price_report,MISSING
+LMFA,2015q2,price_report,MISSING
+LMFA,2015q1,price_report,MISSING
+LMFA,2014q4,price_report,MISSING
+LMFA,2014q3,totalAssets,'None'
+LMFA,2014q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+LMFA,2014q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+LMFA,2014q3,totalShareholderEquity,'None'
+LMFA,2014q3,price_report,MISSING
+LMFA,2014q2,totalAssets,'None'
+LMFA,2014q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+LMFA,2014q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+LMFA,2014q2,totalShareholderEquity,'None'
+LMFA,2014q2,price_report,MISSING
+LMFA,2014q1,totalAssets,'None'
+LMFA,2014q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+LMFA,2014q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+LMFA,2014q1,price_report,MISSING
+LMFA,2013q4,totalShareholderEquity,'None'
+LMFA,2013q4,price_report,MISSING
+MARA,2021q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MARA,2021q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MARA,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MARA,2012q1,price_report,MISSING
+MARA,2011q4,totalShareholderEquity,'None'
+MARA,2011q4,price_report,MISSING
+MARA,2011q3,price_report,MISSING
+MARA,2011q2,price_report,MISSING
+MARA,2011q1,price_report,MISSING
+MARA,2010q2,totalAssets,'None'
+MARA,2010q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MARA,2010q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MARA,2010q2,totalShareholderEquity,'None'
+MARA,2010q2,price_report,MISSING
+MIGI,2023q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2017q3,price_report,MISSING
+MIGI,2017q2,price_report,MISSING
+MIGI,2017q1,price_report,MISSING
+MIGI,2016q4,price_report,MISSING
+MIGI,2016q3,price_report,MISSING
+MIGI,2016q2,price_report,MISSING
+MIGI,2016q1,price_report,MISSING
+MIGI,2015q4,price_report,MISSING
+MIGI,2015q3,price_report,MISSING
+MIGI,2015q2,price_report,MISSING
+MIGI,2015q1,price_report,MISSING
+MIGI,2014q4,price_report,MISSING
+MIGI,2014q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2014q3,price_report,MISSING
+MIGI,2014q2,price_report,MISSING
+MIGI,2014q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2014q1,price_report,MISSING
+MIGI,2013q4,price_report,MISSING
+MIGI,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2013q3,price_report,MISSING
+MIGI,2013q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2013q2,price_report,MISSING
+MIGI,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2013q1,price_report,MISSING
+MIGI,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2012q4,price_report,MISSING
+MIGI,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2012q3,price_report,MISSING
+MIGI,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2012q2,price_report,MISSING
+MIGI,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2012q1,price_report,MISSING
+MIGI,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2011q4,price_report,MISSING
+MIGI,2011q3,totalAssets,'None'
+MIGI,2011q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2011q3,price_report,MISSING
+MIGI,2011q2,totalAssets,'None'
+MIGI,2011q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2011q2,price_report,MISSING
+MIGI,2011q1,totalAssets,'None'
+MIGI,2011q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2011q1,price_report,MISSING
+MIGI,2010q4,totalAssets,'None'
+MIGI,2010q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2010q4,price_report,MISSING
+MIGI,2010q3,totalAssets,'None'
+MIGI,2010q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2010q3,price_report,MISSING
+MIGI,2010q2,totalAssets,'None'
+MIGI,2010q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2010q2,price_report,MISSING
+MIGI,2010q1,totalAssets,'None'
+MIGI,2010q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2010q1,price_report,MISSING
+MIGI,2009q4,totalAssets,'None'
+MIGI,2009q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2009q4,price_report,MISSING
+MIGI,2009q3,totalAssets,'None'
+MIGI,2009q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2009q3,price_report,MISSING
+MIGI,2009q2,totalAssets,'None'
+MIGI,2009q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2009q2,price_report,MISSING
+MIGI,2009q1,totalAssets,'None'
+MIGI,2009q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2009q1,price_report,MISSING
+MIGI,2008q4,totalAssets,'None'
+MIGI,2008q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2008q4,price_report,MISSING
+MIGI,2008q4,btc_price,MISSING from btc_dict
+MIGI,2008q4,hashrate,MISSING from hash_dict
+MIGI,2008q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2008q3,price_report,MISSING
+MIGI,2008q3,btc_price,MISSING from btc_dict
+MIGI,2008q3,hashrate,MISSING from hash_dict
+MIGI,2008q2,totalAssets,'None'
+MIGI,2008q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2008q2,price_report,MISSING
+MIGI,2008q2,btc_price,MISSING from btc_dict
+MIGI,2008q2,hashrate,MISSING from hash_dict
+MIGI,2008q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2008q1,price_report,MISSING
+MIGI,2008q1,btc_price,MISSING from btc_dict
+MIGI,2008q1,hashrate,MISSING from hash_dict
+MIGI,2007q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2007q4,price_report,MISSING
+MIGI,2007q4,btc_price,MISSING from btc_dict
+MIGI,2007q4,hashrate,MISSING from hash_dict
+MIGI,2007q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2007q3,price_report,MISSING
+MIGI,2007q3,btc_price,MISSING from btc_dict
+MIGI,2007q3,hashrate,MISSING from hash_dict
+MIGI,2007q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2007q2,price_report,MISSING
+MIGI,2007q2,btc_price,MISSING from btc_dict
+MIGI,2007q2,hashrate,MISSING from hash_dict
+MIGI,2007q1,totalAssets,'None'
+MIGI,2007q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+MIGI,2007q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2007q1,totalShareholderEquity,'None'
+MIGI,2007q1,price_report,MISSING
+MIGI,2007q1,btc_price,MISSING from btc_dict
+MIGI,2007q1,hashrate,MISSING from hash_dict
+MIGI,2006q4,totalAssets,'None'
+MIGI,2006q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+MIGI,2006q4,price_report,MISSING
+MIGI,2006q4,btc_price,MISSING from btc_dict
+MIGI,2006q4,hashrate,MISSING from hash_dict
+RIOT,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+RIOT,2020q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+RIOT,2020q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+RIOT,2020q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+RIOT,2008q4,btc_price,MISSING from btc_dict
+RIOT,2008q4,hashrate,MISSING from hash_dict
+RIOT,2008q3,btc_price,MISSING from btc_dict
+RIOT,2008q3,hashrate,MISSING from hash_dict
+RIOT,2008q2,btc_price,MISSING from btc_dict
+RIOT,2008q2,hashrate,MISSING from hash_dict
+RIOT,2008q1,btc_price,MISSING from btc_dict
+RIOT,2008q1,hashrate,MISSING from hash_dict
+RIOT,2007q4,btc_price,MISSING from btc_dict
+RIOT,2007q4,hashrate,MISSING from hash_dict
+RIOT,2007q3,btc_price,MISSING from btc_dict
+RIOT,2007q3,hashrate,MISSING from hash_dict
+RIOT,2007q2,btc_price,MISSING from btc_dict
+RIOT,2007q2,hashrate,MISSING from hash_dict
+RIOT,2007q1,btc_price,MISSING from btc_dict
+RIOT,2007q1,hashrate,MISSING from hash_dict
+RIOT,2006q4,btc_price,MISSING from btc_dict
+RIOT,2006q4,hashrate,MISSING from hash_dict
+RIOT,2006q3,btc_price,MISSING from btc_dict
+RIOT,2006q3,hashrate,MISSING from hash_dict
+RIOT,2006q2,btc_price,MISSING from btc_dict
+RIOT,2006q2,hashrate,MISSING from hash_dict
+RIOT,2006q1,btc_price,MISSING from btc_dict
+RIOT,2006q1,hashrate,MISSING from hash_dict
+RIOT,2005q4,btc_price,MISSING from btc_dict
+RIOT,2005q4,hashrate,MISSING from hash_dict
+RIOT,2005q3,btc_price,MISSING from btc_dict
+RIOT,2005q3,hashrate,MISSING from hash_dict
+SAIH,2021q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SAIH,2021q2,price_report,MISSING
+SAIH,2021q1,price_report,MISSING
+SLAI,2024q3,balance_report,MISSING
+SLNH,2019q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2019q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2019q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2018q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2018q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2018q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2018q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2017q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2017q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2017q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2017q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2016q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2016q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2016q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2016q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2015q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2015q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2015q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2015q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2014q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2014q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2014q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2014q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2013q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2013q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2011q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2011q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2011q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2010q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2010q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2010q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2010q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2009q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2009q1,price_report,MISSING
+SLNH,2008q4,price_report,MISSING
+SLNH,2008q4,btc_price,MISSING from btc_dict
+SLNH,2008q4,hashrate,MISSING from hash_dict
+SLNH,2008q3,price_report,MISSING
+SLNH,2008q3,btc_price,MISSING from btc_dict
+SLNH,2008q3,hashrate,MISSING from hash_dict
+SLNH,2008q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2008q2,price_report,MISSING
+SLNH,2008q2,btc_price,MISSING from btc_dict
+SLNH,2008q2,hashrate,MISSING from hash_dict
+SLNH,2008q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2008q1,price_report,MISSING
+SLNH,2008q1,btc_price,MISSING from btc_dict
+SLNH,2008q1,hashrate,MISSING from hash_dict
+SLNH,2007q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2007q4,price_report,MISSING
+SLNH,2007q4,btc_price,MISSING from btc_dict
+SLNH,2007q4,hashrate,MISSING from hash_dict
+SLNH,2007q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2007q3,price_report,MISSING
+SLNH,2007q3,btc_price,MISSING from btc_dict
+SLNH,2007q3,hashrate,MISSING from hash_dict
+SLNH,2007q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2007q2,price_report,MISSING
+SLNH,2007q2,btc_price,MISSING from btc_dict
+SLNH,2007q2,hashrate,MISSING from hash_dict
+SLNH,2007q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2007q1,price_report,MISSING
+SLNH,2007q1,btc_price,MISSING from btc_dict
+SLNH,2007q1,hashrate,MISSING from hash_dict
+SLNH,2006q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2006q4,price_report,MISSING
+SLNH,2006q4,btc_price,MISSING from btc_dict
+SLNH,2006q4,hashrate,MISSING from hash_dict
+SLNH,2006q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2006q3,price_report,MISSING
+SLNH,2006q3,btc_price,MISSING from btc_dict
+SLNH,2006q3,hashrate,MISSING from hash_dict
+SLNH,2006q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2006q2,price_report,MISSING
+SLNH,2006q2,btc_price,MISSING from btc_dict
+SLNH,2006q2,hashrate,MISSING from hash_dict
+SLNH,2006q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2006q1,price_report,MISSING
+SLNH,2006q1,btc_price,MISSING from btc_dict
+SLNH,2006q1,hashrate,MISSING from hash_dict
+SLNH,2005q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2005q4,price_report,MISSING
+SLNH,2005q4,btc_price,MISSING from btc_dict
+SLNH,2005q4,hashrate,MISSING from hash_dict
+SLNH,2005q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SLNH,2005q3,price_report,MISSING
+SLNH,2005q3,btc_price,MISSING from btc_dict
+SLNH,2005q3,hashrate,MISSING from hash_dict
+SLNH,2005q2,balance_report,MISSING
+SOS,2025q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2025q2,price_report,MISSING
+SOS,2025q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2025q1,price_report,MISSING
+SOS,2024q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2024q4,price_report,MISSING
+SOS,2024q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2024q3,price_report,MISSING
+SOS,2024q2,price_report,MISSING
+SOS,2024q1,price_report,MISSING
+SOS,2023q4,price_report,MISSING
+SOS,2023q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2023q3,price_report,MISSING
+SOS,2023q2,price_report,MISSING
+SOS,2023q1,price_report,MISSING
+SOS,2022q4,price_report,MISSING
+SOS,2022q3,price_report,MISSING
+SOS,2022q2,price_report,MISSING
+SOS,2022q1,price_report,MISSING
+SOS,2021q4,price_report,MISSING
+SOS,2021q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2021q3,price_report,MISSING
+SOS,2021q2,price_report,MISSING
+SOS,2021q1,price_report,MISSING
+SOS,2020q4,price_report,MISSING
+SOS,2020q3,netIncome,'None'
+SOS,2020q3,totalAssets,'None'
+SOS,2020q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2020q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+SOS,2020q3,totalShareholderEquity,'None'
+SOS,2020q3,commonStockSharesOutstanding,'None'
+SOS,2020q3,price_report,MISSING
+SOS,2020q2,price_report,MISSING
+SOS,2020q1,price_report,MISSING
+SOS,2019q4,price_report,MISSING
+SOS,2019q3,price_report,MISSING
+SOS,2019q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2019q2,price_report,MISSING
+SOS,2019q1,totalAssets,'None'
+SOS,2019q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2019q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+SOS,2019q1,totalShareholderEquity,'None'
+SOS,2019q1,price_report,MISSING
+SOS,2018q4,price_report,MISSING
+SOS,2018q3,price_report,MISSING
+SOS,2018q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2018q2,price_report,MISSING
+SOS,2018q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2018q1,price_report,MISSING
+SOS,2017q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2017q4,price_report,MISSING
+SOS,2017q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2017q3,price_report,MISSING
+SOS,2017q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2017q2,price_report,MISSING
+SOS,2017q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2017q1,price_report,MISSING
+SOS,2016q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2016q4,price_report,MISSING
+SOS,2016q3,totalAssets,'None'
+SOS,2016q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2016q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+SOS,2016q3,totalShareholderEquity,'None'
+SOS,2016q3,price_report,MISSING
+SOS,2016q2,totalAssets,'None'
+SOS,2016q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2016q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+SOS,2016q2,totalShareholderEquity,'None'
+SOS,2016q2,price_report,MISSING
+SOS,2016q1,totalAssets,'None'
+SOS,2016q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+SOS,2016q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+SOS,2016q1,totalShareholderEquity,'None'
+SOS,2016q1,price_report,MISSING
+ANY,2025q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2025q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2025q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2024q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2024q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2024q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2024q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2023q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2023q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2023q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2022q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2022q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2022q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2021q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2021q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2011q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2011q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2011q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2010q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2010q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2010q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2010q1,totalAssets,'None'
+ANY,2010q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2010q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+ANY,2010q1,totalShareholderEquity,'None'
+ANY,2009q4,totalAssets,'None'
+ANY,2009q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2009q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+ANY,2009q4,totalShareholderEquity,'None'
+ANY,2009q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2009q2,totalAssets,'None'
+ANY,2009q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+ANY,2009q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+ANY,2009q2,totalShareholderEquity,'None'
+WULF,2021q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2016q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2016q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2016q4,totalShareholderEquity,'None'
+WULF,2016q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2015q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2015q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2015q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2015q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2014q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2014q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2014q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2014q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2014q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2013q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2013q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2013q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2012q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2011q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2011q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2011q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2010q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2009q1,totalAssets,'None'
+WULF,2009q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2009q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2009q1,totalShareholderEquity,'None'
+WULF,2001q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2001q1,btc_price,MISSING from btc_dict
+WULF,2001q1,hashrate,MISSING from hash_dict
+WULF,2000q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2000q4,btc_price,MISSING from btc_dict
+WULF,2000q4,hashrate,MISSING from hash_dict
+WULF,2000q3,totalAssets,'None'
+WULF,2000q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2000q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2000q3,totalShareholderEquity,'None'
+WULF,2000q3,btc_price,MISSING from btc_dict
+WULF,2000q3,hashrate,MISSING from hash_dict
+WULF,2000q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2000q2,btc_price,MISSING from btc_dict
+WULF,2000q2,hashrate,MISSING from hash_dict
+WULF,2000q1,totalAssets,'None'
+WULF,2000q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,2000q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+WULF,2000q1,totalShareholderEquity,'None'
+WULF,2000q1,btc_price,MISSING from btc_dict
+WULF,2000q1,hashrate,MISSING from hash_dict
+WULF,1999q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+WULF,1999q3,price_report,MISSING
+WULF,1999q3,btc_price,MISSING from btc_dict
+WULF,1999q3,hashrate,MISSING from hash_dict
+OLB,2024q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2018q4,totalShareholderEquity,'None'
+OLB,2017q4,totalShareholderEquity,'None'
+OLB,2016q4,totalShareholderEquity,'None'
+OLB,2016q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+OLB,2015q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2015q4,totalShareholderEquity,'None'
+OLB,2014q4,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+OLB,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2012q4,totalShareholderEquity,'None'
+OLB,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2010q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2010q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2010q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2010q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2009q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2008q4,totalShareholderEquity,'None'
+OLB,2008q4,btc_price,MISSING from btc_dict
+OLB,2008q4,hashrate,MISSING from hash_dict
+OLB,2008q3,btc_price,MISSING from btc_dict
+OLB,2008q3,hashrate,MISSING from hash_dict
+OLB,2008q2,btc_price,MISSING from btc_dict
+OLB,2008q2,hashrate,MISSING from hash_dict
+OLB,2008q1,btc_price,MISSING from btc_dict
+OLB,2008q1,hashrate,MISSING from hash_dict
+OLB,2007q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2007q4,totalShareholderEquity,'None'
+OLB,2007q4,btc_price,MISSING from btc_dict
+OLB,2007q4,hashrate,MISSING from hash_dict
+OLB,2007q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2007q3,btc_price,MISSING from btc_dict
+OLB,2007q3,hashrate,MISSING from hash_dict
+OLB,2007q2,totalAssets,'None'
+OLB,2007q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2007q2,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+OLB,2007q2,totalShareholderEquity,'None'
+OLB,2007q2,price_report,MISSING
+OLB,2007q2,btc_price,MISSING from btc_dict
+OLB,2007q2,hashrate,MISSING from hash_dict
+OLB,2007q1,totalAssets,'None'
+OLB,2007q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+OLB,2007q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+OLB,2007q1,totalShareholderEquity,'None'
+OLB,2007q1,price_report,MISSING
+OLB,2007q1,btc_price,MISSING from btc_dict
+OLB,2007q1,hashrate,MISSING from hash_dict
+NCTY,2022q4,netIncome,'None'
+NCTY,2022q3,netIncome,'None'
+NCTY,2022q3,totalAssets,'None'
+NCTY,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2022q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+NCTY,2022q3,totalShareholderEquity,'None'
+NCTY,2022q3,commonStockSharesOutstanding,'None'
+NCTY,2021q1,netIncome,'None'
+NCTY,2021q1,totalAssets,'None'
+NCTY,2021q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2021q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+NCTY,2021q1,totalShareholderEquity,'None'
+NCTY,2021q1,commonStockSharesOutstanding,'None'
+NCTY,2020q3,netIncome,'None'
+NCTY,2020q3,totalAssets,'None'
+NCTY,2020q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2020q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+NCTY,2020q3,totalShareholderEquity,'None'
+NCTY,2020q3,commonStockSharesOutstanding,'None'
+NCTY,2019q3,netIncome,'None'
+NCTY,2019q3,totalAssets,'None'
+NCTY,2019q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2019q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+NCTY,2019q3,totalShareholderEquity,'None'
+NCTY,2019q3,commonStockSharesOutstanding,'None'
+NCTY,2015q3,balance_report,MISSING
+NCTY,2015q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2014q3,balance_report,MISSING
+NCTY,2014q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2013q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2013q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2013q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2013q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2012q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2012q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2012q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2012q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2011q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2011q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2011q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2011q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2010q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2010q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2010q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2010q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2009q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2009q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2009q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2009q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2008q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2008q4,btc_price,MISSING from btc_dict
+NCTY,2008q4,hashrate,MISSING from hash_dict
+NCTY,2008q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2008q3,btc_price,MISSING from btc_dict
+NCTY,2008q3,hashrate,MISSING from hash_dict
+NCTY,2008q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2008q2,btc_price,MISSING from btc_dict
+NCTY,2008q2,hashrate,MISSING from hash_dict
+NCTY,2008q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2008q1,btc_price,MISSING from btc_dict
+NCTY,2008q1,hashrate,MISSING from hash_dict
+NCTY,2007q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2007q4,btc_price,MISSING from btc_dict
+NCTY,2007q4,hashrate,MISSING from hash_dict
+NCTY,2007q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2007q3,btc_price,MISSING from btc_dict
+NCTY,2007q3,hashrate,MISSING from hash_dict
+NCTY,2007q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2007q2,btc_price,MISSING from btc_dict
+NCTY,2007q2,hashrate,MISSING from hash_dict
+NCTY,2007q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2007q1,btc_price,MISSING from btc_dict
+NCTY,2007q1,hashrate,MISSING from hash_dict
+NCTY,2006q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2006q4,btc_price,MISSING from btc_dict
+NCTY,2006q4,hashrate,MISSING from hash_dict
+NCTY,2006q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2006q3,btc_price,MISSING from btc_dict
+NCTY,2006q3,hashrate,MISSING from hash_dict
+NCTY,2006q2,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2006q2,btc_price,MISSING from btc_dict
+NCTY,2006q2,hashrate,MISSING from hash_dict
+NCTY,2006q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2006q1,btc_price,MISSING from btc_dict
+NCTY,2006q1,hashrate,MISSING from hash_dict
+NCTY,2005q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2005q4,btc_price,MISSING from btc_dict
+NCTY,2005q4,hashrate,MISSING from hash_dict
+NCTY,2005q3,btc_price,MISSING from btc_dict
+NCTY,2005q3,hashrate,MISSING from hash_dict
+NCTY,2005q2,btc_price,MISSING from btc_dict
+NCTY,2005q2,hashrate,MISSING from hash_dict
+NCTY,2005q1,btc_price,MISSING from btc_dict
+NCTY,2005q1,hashrate,MISSING from hash_dict
+NCTY,2004q4,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2004q4,price_report,MISSING
+NCTY,2004q4,btc_price,MISSING from btc_dict
+NCTY,2004q4,hashrate,MISSING from hash_dict
+NCTY,2004q3,totalAssets,'None'
+NCTY,2004q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2004q3,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+NCTY,2004q3,totalShareholderEquity,'None'
+NCTY,2004q3,price_report,MISSING
+NCTY,2004q3,btc_price,MISSING from btc_dict
+NCTY,2004q3,hashrate,MISSING from hash_dict
+NCTY,2004q2,price_report,MISSING
+NCTY,2004q2,btc_price,MISSING from btc_dict
+NCTY,2004q2,hashrate,MISSING from hash_dict
+NCTY,2004q1,totalAssets,'None'
+NCTY,2004q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
+NCTY,2004q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+NCTY,2004q1,totalShareholderEquity,'None'
+NCTY,2004q1,price_report,MISSING
+NCTY,2004q1,btc_price,MISSING from btc_dict
+NCTY,2004q1,hashrate,MISSING from hash_dict
+NCTY,2003q4,balance_report,MISSING
+NCTY,2003q3,balance_report,MISSING
+NCTY,2003q2,balance_report,MISSING
+NCTY,2003q1,balance_report,MISSING
