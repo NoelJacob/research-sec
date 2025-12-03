@@ -418,6 +418,22 @@ DGXX,2019q3,totalShareholderEquity,'None'
 DGXX,2019q1,totalAssets,'None'
 DGXX,2019q1,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
 DGXX,2019q1,cash (cashAndCashEquivalentsAtCarryingValue/cashAndShortTermInvestments/cash),"{'cashAndCashEquivalentsAtCarryingValue': 'None', 'cashAndShortTermInvestments': 'None', 'cash': None}"
+GREE,2025q3,price_report,MISSING
+GREE,2025q2,price_report,MISSING
+GREE,2025q1,price_report,MISSING
+GREE,2024q4,price_report,MISSING
+GREE,2024q3,price_report,MISSING
+GREE,2024q2,price_report,MISSING
+GREE,2024q1,price_report,MISSING
+GREE,2023q4,price_report,MISSING
+GREE,2023q3,price_report,MISSING
+GREE,2023q2,price_report,MISSING
+GREE,2023q1,price_report,MISSING
+GREE,2022q4,price_report,MISSING
+GREE,2022q3,price_report,MISSING
+GREE,2022q2,price_report,MISSING
+GREE,2022q1,price_report,MISSING
+GREE,2021q4,price_report,MISSING
 GREE,2021q3,price_report,MISSING
 GREE,2021q2,price_report,MISSING
 GREE,2021q1,price_report,MISSING
@@ -621,24 +637,8 @@ GPUS,2005q4,hashrate,MISSING from hash_dict
 GPUS,2005q3,price_report,MISSING
 GPUS,2005q3,btc_price,MISSING from btc_dict
 GPUS,2005q3,hashrate,MISSING from hash_dict
-IREN,2025q3,price_report,MISSING
-IREN,2025q2,price_report,MISSING
-IREN,2025q1,price_report,MISSING
-IREN,2024q4,price_report,MISSING
-IREN,2024q3,price_report,MISSING
-IREN,2024q2,price_report,MISSING
-IREN,2024q1,price_report,MISSING
-IREN,2023q4,price_report,MISSING
-IREN,2023q3,price_report,MISSING
-IREN,2023q2,price_report,MISSING
-IREN,2023q1,price_report,MISSING
-IREN,2022q4,price_report,MISSING
 IREN,2022q3,totalAssets,'None'
 IREN,2022q3,total_debt (shortLongTermDebtTotal/longTermDebt/totalDebt),"{'shortLongTermDebtTotal': 'None', 'longTermDebt': 'None', 'totalDebt': None}"
-IREN,2022q3,price_report,MISSING
-IREN,2022q2,price_report,MISSING
-IREN,2022q1,price_report,MISSING
-IREN,2021q4,price_report,MISSING
 IREN,2021q3,price_report,MISSING
 IREN,2021q2,price_report,MISSING
 IREN,2021q1,totalAssets,'None'
